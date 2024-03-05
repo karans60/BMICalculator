@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/BMICalculator/static/js/main.5ec65027.js",
+    "index.html": "/BMICalculator/index.html",
+    "main.5ec65027.js.map": "/BMICalculator/static/js/main.5ec65027.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5ec65027.js"
+  ]
+}
